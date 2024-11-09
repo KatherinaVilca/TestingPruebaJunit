@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraMultiusoTest" tests="38" skipped="0" failures="0" errors="0" timestamp="2024-11-09T20:09:19" hostname="LAPTOP-CQ2BDJBD" time="0.322">
+  <properties/>
+  <testcase name="fechaInvalidaParaSigno()" classname="CalculadoraMultiusoTest" time="0.075"/>
+  <testcase name="restaCeros()" classname="CalculadoraMultiusoTest" time="0.004"/>
+  <testcase name="testCalcularIMC()" classname="CalculadoraMultiusoTest" time="0.006"/>
+  <testcase name="dividirPositivos()" classname="CalculadoraMultiusoTest" time="0.001"/>
+  <testcase name="signoAcuario()" classname="CalculadoraMultiusoTest" time="0.007"/>
+  <testcase name="signoSagitario()" classname="CalculadoraMultiusoTest" time="0.004"/>
+  <testcase name="sumaNegativos()" classname="CalculadoraMultiusoTest" time="0.004"/>
+  <testcase name="clasificacionPesoSobrepeso()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="multiplicarPositivoYNegativo()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="signoCancer()" classname="CalculadoraMultiusoTest" time="0.003"/>
+  <testcase name="clasificacionPesoNormal()" classname="CalculadoraMultiusoTest" time="0.001"/>
+  <testcase name="unaSolaRaizReal()" classname="CalculadoraMultiusoTest" time="0.007"/>
+  <testcase name="signoAries()" classname="CalculadoraMultiusoTest" time="0.003"/>
+  <testcase name="signoLibra()" classname="CalculadoraMultiusoTest" time="0.004"/>
+  <testcase name="signoPisis()" classname="CalculadoraMultiusoTest" time="0.008"/>
+  <testcase name="signoTauro()" classname="CalculadoraMultiusoTest" time="0.001"/>
+  <testcase name="signoVirgo()" classname="CalculadoraMultiusoTest" time="0.008"/>
+  <testcase name="alturaInvalida()" classname="CalculadoraMultiusoTest" time="0.003"/>
+  <testcase name="noExistenRaicesReales()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="signoEscorpio()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="dosRaicesReales()" classname="CalculadoraMultiusoTest" time="0.003"/>
+  <testcase name="signoCapricornio()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="signoGeminis()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="dividirPositivoYNegativo()" classname="CalculadoraMultiusoTest" time="0.006"/>
+  <testcase name="restaPositivos()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="clasificacionObesidad()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="coeficienteACero()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="signoCapricornioDeEnero()" classname="CalculadoraMultiusoTest" time="0.001"/>
+  <testcase name="signoLeo()" classname="CalculadoraMultiusoTest" time="0.003"/>
+  <testcase name="multiplicarPositivos()" classname="CalculadoraMultiusoTest" time="0.001"/>
+  <testcase name="clasificacionPesoBajo()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="restaPositivoYNegativo()" classname="CalculadoraMultiusoTest" time="0.001"/>
+  <testcase name="sumaCeros()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="pesoInvalido()" classname="CalculadoraMultiusoTest" time="0.005"/>
+  <testcase name="fechaInexistenteParaSigno()" classname="CalculadoraMultiusoTest" time="0.011"/>
+  <testcase name="multiplicarPositivoYCero()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <testcase name="dividirPorCERO()" classname="CalculadoraMultiusoTest" time="0.004"/>
+  <testcase name="sumaPositivos()" classname="CalculadoraMultiusoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
